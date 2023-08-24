@@ -1,0 +1,8 @@
+title: Moore's Minions
+description: No Moore Problems
+url: "https://moores-minions.github.io/"
+baseurl: ""
+theme: jekyll-theme-slate
+github:
+  is_project_page: true
+  repository_url: https://github.com/moores-minions/moores-minions.github.io
