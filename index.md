@@ -1,9 +1,9 @@
 # Moore's Minions
 ## Table of Contents
-  -  <a href="https://github.com/moores-minions/moores-minions.github.io/edit/main/index.md#about-us">About Us</a>
-  - <a href="https://github.com/moores-minions/moores-minions.github.io/edit/main/index.md#our-goals">Our Goals</a>
-  - <a href="https://github.com/moores-minions/moores-minions.github.io/edit/main/index.md#members">Members</a>
-  - <a href="https://github.com/moores-minions/moores-minions.github.io/edit/main/index.md#mockup-pages">Mockup Pages</a>
+  -  [About Us](#about-us)
+  -  [Our Goals](#our-goals)
+  -  [Members](#members)
+  -  [Mockup Pages](#mockup-pages)
 ## About Us
 We are a group of undergraduates students working towards creating a more user-friendly websiite for the Hawaii Annual Code Challenge website.
 ### Our Goals
