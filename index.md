@@ -1,4 +1,5 @@
 # Moore's Minions
+![ci-badge](https://github.com/moores-minions/HACC-Hui/workflows/ci-hacc-hui/badge.svg)
 ## Table of Contents
   -  [About Us](#about-us)
   -  [Our Goals](#our-goals)
